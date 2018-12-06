@@ -1,3 +1,4 @@
+//A method to play the dice game called Greed
 public class Greed{
   public static int greedy(int[] dice){
     int numOnes = 0;	//the number of types of dice in there
